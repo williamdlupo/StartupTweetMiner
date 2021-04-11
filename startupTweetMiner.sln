@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "startupTweetMiner", "startupTweetMiner.csproj", "{A131E6C2-2368-42B8-A73E-2B4024B34967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A131E6C2-2368-42B8-A73E-2B4024B34967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A131E6C2-2368-42B8-A73E-2B4024B34967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A131E6C2-2368-42B8-A73E-2B4024B34967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A131E6C2-2368-42B8-A73E-2B4024B34967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2601BD9-AC81-47E5-B9DD-691803615572}
+	EndGlobalSection
+EndGlobal
